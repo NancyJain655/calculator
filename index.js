@@ -10,7 +10,7 @@ else{
 }
 function clearDisplay()
 {
-    display.value="";
+    display.value="0";
 }
 function deleteDisplay(){
 display.value=display.value.slice(0,-1);
